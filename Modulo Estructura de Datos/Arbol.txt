@@ -1,0 +1,76 @@
+Arboles. General.
+1)Responder a las siguientes preguntas sobre el árbol siguiente:
+1. ¿Qué nodo es la raíz?
+
+El nodo que es la raiz del arbol es A.
+
+2. ¿Cuántos caminos diferentes de longitud tres hay?
+
+Hay un unico camino de longitud 3 ( ACI )
+
+3. ¿Es un camino la sucesión de nodos HGFBACI?
+
+NO - H no es el padre de G.
+
+4. ¿Qué nodos son los ancestros de K?
+
+Los ancestros de K son A , C y J. 
+
+5. ¿Qué nodos son los ancestros propios de N?
+
+A y E.
+
+6. ¿Qué nodos son los descendientes propios de M?
+
+No tiene descendientes.
+
+7. ¿Qué nodos son las hojas?
+
+Las hojas son HILMDPQ.
+
+8. ¿Cuál es la altura del nodo C?
+
+La altura es 3.
+
+9. ¿Cuál es la altura del árbol?
+
+La altura del arbol es el de la raiz, es decir, la altura del nodo A. Altura 4.
+
+10. ¿Cuál es la profundidad del nodo C?
+
+-
+
+11. ¿Cuál es el hermano a la derecha de D?
+
+E
+
+12. ¿Es I hermano a la derecha de F?
+
+No tienen el mismo padre, no son hermanos.
+
+13. ¿Está F a la izquierda de J?
+
+Si
+
+14. ¿Está L a la derecha de J?
+
+No porque es descendiente.
+
+15. ¿Qué nodos están a la izquierda y a la derecha de J?
+
+A la izquierda BFGHI y a la derecha DENPQ
+
+16. ¿Cuántos hijos tiene A?
+
+Tiene 4 hijos BCDE
+
+17. Listar los nodos del árbol en preorden,postorden e inorden.
+
+PreOrden: ABFGHCIJKLMDENPQ
+
+PostOrden: HGFBILMKJCDPQNEA
+
+Inorden: HGFBAICLKMJDPNQE
+ 
+
+
